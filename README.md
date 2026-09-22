@@ -54,8 +54,7 @@ Computer Science Fresh Graduate from **UET Lahore** with strong expertise in **P
 ## Contact
 - Email: **devadnan786@gmail.com**
 - Phone: **0316 4806014**
-- LinkedIn: *(add your LinkedIn URL here)*
-- GitHub: *(add your GitHub URL here)*
+- LinkedIn: *www.linkedin.com/in/muhammad-adnan-6bb3a7263*
 
 > Reference will be furnished upon request.
 
