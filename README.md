@@ -1,6 +1,6 @@
 # Muhammad Adnan
 
-Computer Science Fresh Graduate fromm **UET Lahore** with strong expertise in **Python**, **AI/ML**, **Deep Learning**, **NLP**, **Computer Vision**, **Generative AI**, and **Apex (Salesforce)**. I enjoy building scalable, efficient, and innovative solutions using Python and the **MERN** stack.
+Computer Science Fresh Graduate from **UET Lahore** with strong expertise in **Python**, **AI/ML**, **Deep Learning**, **NLP**, **Computer Vision**, **Generative AI**, and **Apex (Salesforce)**. I enjoy building scalable, efficient, and innovative solutions using Python and the **MERN** stack.
 
 ## About Me
 - Focus areas: AI/ML, Deep Learning, NLP, Computer Vision, Generative AI
